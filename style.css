@@ -1,0 +1,131 @@
+img {
+  width: 188px;
+  height: 188px;
+  object-fit: cover;
+  border-radius: 15px;
+  margin-top: 7px;
+}
+
+.back {
+  border-radius: 15px;
+  width: 627px;
+  height: 875px;
+  background: linear-gradient(0deg, #676767, #CCCCCC);
+  margin: 30px;
+}
+
+.avatar {
+  position: relative;
+  right: -30px;
+  bottom: -30px;
+  width: 203px;
+  height: 203px;
+  background: linear-gradient(0deg, #009470, #00D5A1);
+  border-radius: 15px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-family: "Calibri";
+  margin-left: 18px;
+  margin-right: 18px;
+  text-align: left;
+  font-size: 14px;
+}
+
+h3 {
+  color: #383838;
+  font-family: "Calibri";
+}
+
+.contacts {
+  position: relative;
+  right: -30px;
+  bottom: -30px;
+  width: 203px;
+  height: 120px;
+  background: linear-gradient(0deg, #009470, #00D5A1);
+  border-radius: 15px;
+  text-align: center;
+  line-height: 15px;
+}
+
+.language {
+  position: relative;
+  right: -30px;
+  bottom: -30px;
+  width: 203px;
+  height: 75px;
+  background: linear-gradient(0deg, #009470, #00D5A1);
+  border-radius: 15px;
+  text-align: center;
+  line-height: 15px;
+}
+
+.lern {
+  position: relative;
+  right: -30px;
+  bottom: -30px;
+  width: 203px;
+  height: 110px;
+  background: linear-gradient(0deg, #009470, #00D5A1);
+  border-radius: 15px;
+  text-align: center;
+  line-height: 15px;
+}
+
+.stack {
+  position: relative;
+  right: -265px;
+  bottom: 553px;
+  width: 333px;
+  height: 110px;
+  background: linear-gradient(0deg, #009470, #00D5A1);
+  border-radius: 15px;
+  text-align: left;
+  line-height: 15px;
+  
+}
+
+.stack h3 {
+  text-align: center;
+}
+
+span {
+  padding: 4px;
+  border-radius: 45px;
+  background-color: white;
+  line-height: 35px;
+  margin-left: 10px;
+  font-family: "Calibri";
+  font-size: 14px;
+}
+
+.path {
+  position: relative;
+  right: -265px;
+  bottom: 553px;
+  width: 333px;
+  height: 110px;
+  background: linear-gradient(0deg, #009470, #00D5A1);
+  border-radius: 15px;
+  text-align: center;
+  line-height: 15px;
+  
+}
+
+.me {
+  position: relative;
+  right: -265px;
+  bottom: 553px;
+  width: 333px;
+  height: 170px;
+  background: linear-gradient(0deg, #009470, #00D5A1);
+  border-radius: 15px;
+  text-align: center;
+  line-height: 15px;
+}
+
+
+
