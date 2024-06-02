@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <script src="lib/script.js"></script>
+  </head>
+
+  <body>
+  <div class="back">
+    <div class="avatar">
+      <img
+        src="https://sun9-54.userapi.com/impg/wb6s_CuCmy-o_Cbbxqhkdc-cd0ZRwapl2UeD-w/7WG8FyetQrU.jpg?size=606x1080&quality=95&sign=4295da90cbf9eb218f736a5b399b46db&type=album"
+      />
+    </div>
+
+    <div class="contacts">
+      <h3>Контакты</h3>
+      <p>
+        Тел: +79938207622 <br />
+        Tg: @samura1_bez_me4a <br />
+        VK: @samura1_bez_me4a <br />
+        Email: <br />
+        romanstin001@gmail.com
+      </p>
+    </div>
+
+    <div class="language">
+      <h3>Языки</h3>
+      <p>Английский: Beginner (A1) Русский: Proficeiency (C2)</p>
+    </div>
+
+    <div class="lern">
+      <h3>Образование</h3>
+      <p>
+        Среднее. Учусь на 1 курсе бакалавриата ЯГТУ, по специальности
+        "программная инженерия".
+      </p>
+    </div>
+
+    <div class="stack">
+      <h3>Стек технологий</h3>
+      <span>C#</span>
+      <span>C++</span>
+      <span>C</span>
+      <span>Go</span>
+      <span>Python</span>
+      <span>SQL</span>
+      <span>Django</span>
+      <br><span>Unity 3D</span>
+    </div>
+
+    <div class="path">
+      <h3>Направления</h3>
+      <p>
+        Разработка программного обеспечения, разработка игр, базы данных,
+        интернет вещей, разработка архитектуры программного обеспечения.
+      </p>
+    </div>
+
+    <div class="path">
+      <h3>Желаемые профессии</h3>
+      <p>
+      Разработчик программного обеспечения, архитектор программного обеспечения,
+      backend - разработчик.
+      </p>
+    </div>
+
+    <div class="path">
+      <h3>Хобби</h3>
+      <p>
+      Мотоспорт, велоспорт, видеоигры, разработка видеоигр.
+      </p>
+    </div>
+
+    <div class="path">
+      <h3>Навыки</h3>
+      <p>
+      Могу найти общий язык с любым человеком. Быстро осваиваю новую информацию
+      на практике. Готов взять на себя ответственность за других людей.
+      </p>
+    </div>
+
+    <div class="me">
+      <h3>О себе</h3>
+      <p>
+      Мечтаю создавать качественные и востребованные программные продукты,
+      которые будут помогать бизнесу или людям. Учусь, чтобы стать
+      высококвалифицированным разработчиком в IT-сфере. На данный момент создаю
+      телеграм/дискорд ботов на заказ, на фриланс. До этого занимался
+      разработкой игр в течении 2-х лет.
+      </p>
+    </div>
+  </div>
+  </body>
+</html>
